@@ -1,16 +1,18 @@
 ## Student Mental Health Burnout Dataset
-**📌 Overview**
+## 📌 Overview
 
 This repository contains the Student Mental Health Burnout Dataset, which includes information related to student lifestyle habits, academic stress, mental health scores, and burnout levels.
 The dataset can be used for data analysis, visualization, and machine learning-based burnout prediction projects.
 
-📂 Dataset File
+## 📂 Dataset File
 student_mental_health_burnout.xlsx
-📊 Dataset Details
+
+## 📊 Dataset Details
 Total Records: 9999 students
 Total Features (Columns): 29
 File Format: Excel (.xlsx)
-🧾 Main Attributes Included
+
+## 🧾 Main Attributes Included
 
 The dataset contains student information such as:
 
@@ -35,7 +37,8 @@ academic_pressure_score
 financial_stress_score
 social_support_score
 burnout_level
-📌 Derived / Calculated Columns
+
+## 📌 Derived / Calculated Columns
 
 The dataset also includes additional computed features:
 
@@ -55,7 +58,7 @@ Unnamed: 28
 
 These columns mostly contain missing values and should be removed during preprocessing.
 
-🎯 Possible Project Use Cases
+## 🎯 Possible Project Use Cases
 
 This dataset can be used for:
 
@@ -64,6 +67,7 @@ Student mental health trend visualization
 Burnout level classification
 Stress prediction models
 Streamlit dashboard development
-👩‍💻 Author
+
+##👩‍💻 Author
 
 Deepa
