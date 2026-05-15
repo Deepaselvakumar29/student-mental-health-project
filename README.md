@@ -68,6 +68,6 @@ Burnout level classification
 Stress prediction models
 Streamlit dashboard development
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Deepa
